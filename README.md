@@ -20,7 +20,7 @@ There are bank management, employees, admin operations and simple monetary trans
 
 ## Program.cs
 This is the Welcome screen. 
-## you must choose language if you choose English you to continue English but Türkçe seçilirse Türkçe devam edilir.
+## you must choose language ,if you choose English you to continue English but Türkçe seçilirse Türkçe devam edilir. <<<<
 #### Login, Sign up, Employee Login, Admin Login, 
 
 ## Public Property 
